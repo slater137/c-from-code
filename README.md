@@ -4,8 +4,6 @@
 >
 > Computes the emergent signalling speed
 >
-> $ v_* = \sqrt{\chi/\kappa}\,\ell_{\text P}^{-1}$
->
 > and reproduces all figures and tables in the paper.
 
 ---
