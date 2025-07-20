@@ -110,7 +110,7 @@ If you use this code, please cite:
   author  = {Slater Shrieve},
   title   = {c-from-code: An Information-Theoretic Origin for Light Speed},
   version = {v1.0},
-  doi     = {10.5281/zenodo.xxxxx},
+  doi     = {10.5281/zenodo.16238216},
   year    = {2025}
 }
 ```
