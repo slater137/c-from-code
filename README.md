@@ -1,6 +1,6 @@
-# simulate-c
+# c-from-code
 
-> Reference implementation for the numerical experiments in **Shrieve (2025), *“Speed of Light from Quantum Error Correction”***.
+> Reference implementation for the numerical experiments in **Shrieve (2025), *“An Information-Theoretic Origin for Light Speed”***.
 >
 > Computes the emergent signalling speed
 >
@@ -25,7 +25,7 @@
 
 ```bash
 conda env create -f env.yml
-conda activate simulate-c
+conda activate c-from-code
 ```
 
 ### Pip
@@ -112,7 +112,7 @@ If you use this code, please cite:
 ```bibtex
 @software{Shrieve2025simulatec,
   author  = {Slater Shrieve},
-  title   = {simulate-c: Speed of Light from Quantum Error Correction},
+  title   = {c-from-code: An Information-Theoretic Origin for Light Speed},
   version = {v1.0},
   doi     = {10.5281/zenodo.xxxxx},
   year    = {2025}
@@ -129,10 +129,9 @@ This project is released under the [MIT License](LICENSE).
 
 ## 8. Author & Acknowledgements
 
-**Slater Shrieve** – [slater@slatershrieve.com](mailto:slater@slatershrieve.com)
+**Slater Shrieve** – [slater.shrieve@icloud.com](mailto:slater.shrieve@icloud.com)
 
-Portions of the text were assisted by ChatGPT (OpenAI, San Francisco, CA) under the
-direction of the author. All content was verified by the author.
+Numerical method inspired by discussions with D. Hoffman and the Quantum Error‑Correction reading group.
 
 ---
 
