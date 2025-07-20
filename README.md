@@ -1,4 +1,4 @@
-# c from Code
+# *c* from Code
 
 > Reference implementation for the numerical experiments in **Shrieve (2025), *“An Information-Theoretic Origin for Light Speed”***.
 >
