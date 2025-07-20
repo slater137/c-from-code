@@ -2,9 +2,7 @@
 
 > Reference implementation for the numerical experiments in **Shrieve (2025), *“An Information-Theoretic Origin for Light Speed”***.
 >
-> Computes the emergent signalling speed
->
-> and reproduces all figures and tables in the paper.
+> Computes the emergent signalling speed and reproduces all figures and tables in the paper.
 
 ---
 
