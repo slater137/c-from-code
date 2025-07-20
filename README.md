@@ -125,9 +125,9 @@ This project is released under the [MIT License](LICENSE).
 
 ## 8. Author & Acknowledgements
 
-**Slater Shrieve** – [slater.shrieve@icloud.com](mailto:slater.shrieve@icloud.com)
+**Slater Shrieve** – [slater@slatershrieve.com](mailto:slater@slatershrieve.com)
 
-Numerical method inspired by discussions with D. Hoffman and the Quantum Error‑Correction reading group.
+Numerical method inspired by discussions with Donald Hoffman and John Archibad Wheeler's anthropic principle.
 
 ---
 
