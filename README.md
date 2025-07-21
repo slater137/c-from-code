@@ -8,7 +8,7 @@
 
 ## 1. Features
 
-* **Single‑file script** – `simulate_c.py` (≈200 LOC) with no external modules beyond NumPy & SciPy.
+* **Single‑file script** – `simulate_c.py` (191 LOC) with no external modules beyond NumPy & SciPy.
 * **Reproducible** – deterministic output given the RNG seed; `--bench` prints host hardware/time.
 * **Self‑tests** – `--test` flag runs a micro unit‑test suite to guard against regressions.
 * **Zero‑config** – sensible defaults mean `python simulate_c.py` “just works.”
