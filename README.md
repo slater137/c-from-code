@@ -1,6 +1,6 @@
-# *c* from Code
+# Emergent *c*
 
-> Reference implementation for the numerical experiments in **Shrieve (2025), *“An Information-Theoretic Origin for Light Speed”***.
+> Reference implementation for the numerical experiments in **Shrieve (2025), *“Deriving the Speed of Light from Quantum Informationi Compression”***.
 >
 > Computes the emergent signalling speed and reproduces all figures and tables in the paper.
 
@@ -108,7 +108,7 @@ If you use this code, please cite:
 ```bibtex
 @software{Shrieve2025simulatec,
   author  = {Slater Shrieve},
-  title   = {c-from-code: An Information-Theoretic Origin for Light Speed},
+  title   = {emergent-c: Deriving the Speed of Light from Quantum Informationi Compression},
   version = {v1.0},
   doi     = {10.5281/zenodo.16238216},
   year    = {2025}
@@ -127,8 +127,7 @@ This project is released under the [MIT License](LICENSE).
 
 **Slater Shrieve** – [slater@slatershrieve.com](mailto:slater@slatershrieve.com)
 
-Numerical method inspired by discussions with Donald Hoffman and John Archibad Wheeler's anthropic principle.
-
+I am grateful to Donald Hoffman for many fruitful discussions, and to John Archibad Wheeler for his "it from bit" theory, and to Seth Lloyd for extending this framework through his pioneering work in quantum information theory. 
 ---
 
 ## 9. Contributing
